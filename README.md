@@ -20,3 +20,5 @@ Nextcloud Passwords React-based app for Android and IOS.
   <img src="https://github.com/daper/nextcloud-passwords-app/raw/master/assets/generate-view.jpg" alt="Generate View" width="250" />
   <img src="https://github.com/daper/nextcloud-passwords-app/raw/master/assets/favorites-view.jpg" alt="Generate View" width="250" />
 </div>
+
+Add Autofill service
